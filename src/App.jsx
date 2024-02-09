@@ -1,4 +1,5 @@
 import style from "./App.module.css"
+import { Hero } from "./components/Hero/Hero"
 import { Navbar } from "./components/NavBar/Navbar"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <div className={style.App}>
         <Navbar />
+        <Hero />
       </div>
     </>
   )
