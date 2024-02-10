@@ -1,26 +1,66 @@
 [
     {
-      "title": "Project A",
+      "title": "Portfolio Website",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "A react app to demonstrate my experience and education.",
+      "skills": ["React", "Node", "CSS"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/react-portfolio"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+        "title": "Old Portfolio Website",
+        "imageSrc": "projects/project.png",
+        "description": "Another react app to create the Portfolio website. Deploy the website using github pages. It contains information about my projects, interest and my education.",
+        "skills": ["React", "Node", "Github Pages"],
+        "demo": "https://vishal7313.github.io/portfolio/",
+        "source": "https://github.com/vishal7313/portfolio"
     },
     {
-      "title": "Project C",
+      "title": "Mern Chat App",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Currently building a real time chat app using MERN Stack and Sockets. User will be able to chat with other user.",
+      "skills": ["MongoDB", "Express", "React", "Node", "Sockets"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/mern-chat-app"
+    },
+    {
+      "title": "Cricket Auction",
+      "imageSrc": "projects/project.png",
+      "description": "Currently working on a react app which simulates a franchise league auction. 10 teams can bid for a player and highest bidder will get the player. The goal is the complete the squad within the budget",
+      "skills": ["MongoDB", "Express", "React", "Node", "Sockets"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/ipl-players-auction"
+    },
+    {
+      "title": "Hangman",
+      "imageSrc": "projects/project.png",
+      "description": "In this python project, hangman game is developed with keeping in mind about the rules",
+      "skills": ["Python"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/python-proj/tree/main/hangman"
+    },
+    {
+      "title": "Blackjack Game",
+      "imageSrc": "projects/project.png",
+      "description": "A python project where I implemented the concept of BlackJack Card Game. As of now, only one player can play with the computer. I am working on making it a multiplayer game.",
+      "skills": ["Python"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/python-proj/tree/main/blackjack"
+    },
+    {
+      "title": "Higher Lower Game",
+      "imageSrc": "projects/project.png",
+      "description": "Developed Higher Lower game concept. In this there are two section and player has to compare if the left section is higher or lower. If the user guess it right, then the game keeps on going otherwise any wrong guess will result in end of the game.",
+      "skills": ["Python"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/python-proj/tree/main/high_lower_number"
+    },
+    {
+      "title": "Silent Auction",
+      "imageSrc": "projects/project.png",
+      "description": "In this python project, a concept of slient auction is implemented. Multiple users can bid at the same time and the user with highest bid will win the bid.",
+      "skills": ["Python"],
+      "demo": "",
+      "source": "https://github.com/vishal7313/python-proj/tree/main/silent_auction"
     }
   ]
