@@ -8,6 +8,11 @@ export const Contact = () => {
         <div className={styles.text}>
             <h2>Contact</h2>
             <p>Feel free to reach out!</p>
+            <br />
+            <br />
+            <p>
+                <a href='/assests/resume/vishal-resume.pdf' className={styles.contactBtn} download>Resume</a>
+            </p>
         </div>
 
         <ul className={styles.links}>
@@ -27,6 +32,9 @@ export const Contact = () => {
             <li className={styles.link}> 
                 <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
                 <a href="https://github.com/vishal7313">Github Profile</a>
+            </li>
+            <li className={styles.link}> 
+                
             </li>
         </ul>
     </footer>
