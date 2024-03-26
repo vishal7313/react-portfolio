@@ -1,9 +1,17 @@
 [
     {
+        "title": "Mern Chat App",
+        "imageSrc": "projects/chat-app.png",
+        "description": "A real time chat app using MERN Stack and Sockets. User will be able to chat with other user. Deployed using render.com free tier.",
+        "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
+        "demo": "https://chat-app-ast7.onrender.com/login",
+        "source": "https://github.com/vishal7313/mern-chat-app"
+    },
+    {
       "title": "Portfolio Website",
       "imageSrc": "projects/project.png",
-      "description": "A react app to demonstrate my experience and education.",
-      "skills": ["React", "Node", "CSS"],
+      "description": "A react app to demonstrate my projects, interest and my education. Deployed using github pages.",
+      "skills": ["React", "Node", "Github Pages"],
       "demo": "https://vishal7313.github.io/react-portfolio/ ",
       "source": "https://github.com/vishal7313/react-portfolio"
     },
@@ -16,18 +24,10 @@
         "source": "https://github.com/vishal7313/portfolio"
     },
     {
-      "title": "Mern Chat App",
-      "imageSrc": "projects/project.png",
-      "description": "Currently building a real time chat app using MERN Stack and Sockets. User will be able to chat with other user.",
-      "skills": ["MongoDB", "Express", "React", "Node", "Sockets"],
-      "demo": "https://test.com",
-      "source": "https://github.com/vishal7313/mern-chat-app"
-    },
-    {
       "title": "Cricket Auction",
       "imageSrc": "projects/project.png",
       "description": "Currently working on a react app which simulates a franchise league auction. 10 teams can bid for a player and highest bidder will get the player. The goal is the complete the squad within the budget",
-      "skills": ["MongoDB", "Express", "React", "Node", "Sockets"],
+      "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
       "demo": "https://test.com",
       "source": "https://github.com/vishal7313/ipl-players-auction"
     },
@@ -44,7 +44,7 @@
       "imageSrc": "projects/project.png",
       "description": "A python project where I implemented the concept of BlackJack Card Game. As of now, only one player can play with the computer. I am working on making it a multiplayer game.",
       "skills": ["Python"],
-      "demo": "https://test.com",
+      "demo": "https://replit.com/@vishal7313/blackjack-final",
       "source": "https://github.com/vishal7313/python-proj/tree/main/blackjack"
     },
     {
@@ -52,7 +52,7 @@
       "imageSrc": "projects/project.png",
       "description": "Developed Higher Lower game concept. In this there are two section and player has to compare if the left section is higher or lower. If the user guess it right, then the game keeps on going otherwise any wrong guess will result in end of the game.",
       "skills": ["Python"],
-      "demo": "https://test.com",
+      "demo": "https://replit.com/@vishal7313/higher-lower-final",
       "source": "https://github.com/vishal7313/python-proj/tree/main/high_lower_number"
     },
     {
@@ -60,7 +60,7 @@
       "imageSrc": "projects/project.png",
       "description": "In this python project, a concept of slient auction is implemented. Multiple users can bid at the same time and the user with highest bid will win the bid.",
       "skills": ["Python"],
-      "demo": "https://test.com",
+      "demo": "https://replit.com/@vishal7313/blind-auction-completed",
       "source": "https://github.com/vishal7313/python-proj/tree/main/silent_auction"
     }
   ]
