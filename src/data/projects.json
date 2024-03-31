@@ -3,7 +3,7 @@
         "title": "Mern Chat App",
         "imageSrc": "projects/chat-app.png",
         "description": "A real time chat app using MERN Stack and Sockets. User will be able to chat with other user. Deployed using render.com free tier.",
-        "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
+        "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI", "React Toast"],
         "demo": "https://chat-app-ast7.onrender.com/login",
         "source": "https://github.com/vishal7313/mern-chat-app"
     },
