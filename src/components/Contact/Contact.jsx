@@ -2,6 +2,7 @@ import React from 'react'
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
+
 export const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
@@ -11,7 +12,7 @@ export const Contact = () => {
             <br />
             <br />
             <p>
-                <a href='/assests/resume/vishal-resume.pdf' className={styles.contactBtn} download>Resume</a>
+                <a href='/react-portfolio/assets/resume/vishal-resume.pdf' className={styles.contactBtn} download="Vishal-Resume.pdf">Resume</a>
             </p>
         </div>
 
