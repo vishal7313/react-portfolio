@@ -51,13 +51,13 @@
 }
 
 .heroImg {
-  width: 50%;
+  width: 25%;
   z-index: 1;
-
   animation-name: heroImg;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  border-radius: 50px;
 }
 
 @keyframes heroImg {
