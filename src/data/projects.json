@@ -8,8 +8,16 @@
         "source": "https://github.com/vishal7313/mern-chat-app"
     },
     {
+        "title": "Expense Tracker",
+        "imageSrc": "projects/expense-tracker.png",
+        "description": "Developing a MERN stack app to track earnings/expenses. Intuitive UI, dynamic dashboard with visual graphs (Chart.js), styled using Tailwind CSS & Daisy UI.",
+        "skills": ["MongoDB", "Express", "React", "Node", "Chart.js"],
+        "demo": "https://vishal7313.github.io/portfolio/",
+        "source": "https://github.com/vishal7313/expense-tracker"
+    },
+    {
       "title": "Portfolio Website",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/portfolio.png",
       "description": "A react app to demonstrate my projects, interest and my education. Deployed using github pages.",
       "skills": ["React", "Node", "Github Pages"],
       "demo": "https://vishal7313.github.io/react-portfolio/ ",
@@ -17,7 +25,7 @@
     },
     {
         "title": "Old Portfolio Website",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/old-portfolio.png",
         "description": "Another react app to create the Portfolio website. Deploy the website using github pages. It contains information about my projects, interest and my education.",
         "skills": ["React", "Node", "Github Pages"],
         "demo": "https://vishal7313.github.io/portfolio/",
@@ -28,39 +36,31 @@
       "imageSrc": "projects/project.png",
       "description": "Currently working on a react app which simulates a franchise league auction. 10 teams can bid for a player and highest bidder will get the player. The goal is the complete the squad within the budget",
       "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
-      "demo": "https://test.com",
+      "demo": "",
       "source": "https://github.com/vishal7313/ipl-players-auction"
     },
     {
       "title": "Hangman",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/hangman-game.png",
       "description": "In this python project, hangman game is developed with keeping in mind about the rules",
       "skills": ["Python"],
-      "demo": "https://test.com",
+      "demo": "https://replit.com/@vishal7313/Day-7-Hangman-Final",
       "source": "https://github.com/vishal7313/python-proj/tree/main/hangman"
     },
     {
       "title": "Blackjack Game",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/blackjack-game.png",
       "description": "A python project where I implemented the concept of BlackJack Card Game. As of now, only one player can play with the computer. I am working on making it a multiplayer game.",
       "skills": ["Python"],
-      "demo": "https://replit.com/@vishal7313/blackjack-final",
+      "demo": "https://replit.com/@vishal7313/blackjack-final-1",
       "source": "https://github.com/vishal7313/python-proj/tree/main/blackjack"
     },
     {
       "title": "Higher Lower Game",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/higher-lower.png",
       "description": "Developed Higher Lower game concept. In this there are two section and player has to compare if the left section is higher or lower. If the user guess it right, then the game keeps on going otherwise any wrong guess will result in end of the game.",
       "skills": ["Python"],
       "demo": "https://replit.com/@vishal7313/higher-lower-final",
       "source": "https://github.com/vishal7313/python-proj/tree/main/high_lower_number"
-    },
-    {
-      "title": "Silent Auction",
-      "imageSrc": "projects/project.png",
-      "description": "In this python project, a concept of slient auction is implemented. Multiple users can bid at the same time and the user with highest bid will win the bid.",
-      "skills": ["Python"],
-      "demo": "https://replit.com/@vishal7313/blind-auction-completed",
-      "source": "https://github.com/vishal7313/python-proj/tree/main/silent_auction"
     }
   ]
