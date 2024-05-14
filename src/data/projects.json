@@ -24,20 +24,20 @@
       "source": "https://github.com/vishal7313/react-portfolio"
     },
     {
+        "title": "Cricket Auction",
+        "imageSrc": "projects/project.png",
+        "description": "Currently, I am working on a React app that simulates a franchise league auction. In this auction, ten teams can bid for a player, and the highest bidder will get the player. The goal of this simulation is to complete the squad within the budget.",
+        "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
+        "demo": "",
+        "source": "https://github.com/vishal7313/ipl-players-auction"
+    },
+    {
         "title": "Old Portfolio Website",
         "imageSrc": "projects/old-portfolio.png",
         "description": "I have developed a React application that serves to showcase my professional projects, interests, and academic background. I am pleased to inform you that this app has been successfully deployed on GitHub Pages",
         "skills": ["React", "Node", "Github Pages"],
         "demo": "https://vishal7313.github.io/portfolio/",
         "source": "https://github.com/vishal7313/portfolio"
-    },
-    {
-      "title": "Cricket Auction",
-      "imageSrc": "projects/project.png",
-      "description": "Currently, I am working on a React app that simulates a franchise league auction. In this auction, ten teams can bid for a player, and the highest bidder will get the player. The goal of this simulation is to complete the squad within the budget.",
-      "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
-      "demo": "",
-      "source": "https://github.com/vishal7313/ipl-players-auction"
     },
     {
       "title": "Hangman",

@@ -12,7 +12,7 @@ export const Contact = () => {
             <br />
             <br />
             <p>
-                <a href='/react-portfolio/assets/resume/vishal-resume.pdf' className={styles.contactBtn} download="Vishal-Resume.pdf">Resume</a>
+                <a href='https://vishal7313.github.io/react-portfolio/assets/resume/vishal-resume.pdf' className={styles.contactBtn} download="vishal-resume.pdf">Resume</a>
             </p>
         </div>
 
