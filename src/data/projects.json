@@ -2,7 +2,7 @@
     {
         "title": "Mern Chat App",
         "imageSrc": "projects/chat-app.png",
-        "description": "A real time chat app using MERN Stack and Sockets. User will be able to chat with other user. Deployed using render.com free tier.",
+        "description": "This is a real-time chat application that has been built using the MERN stack and Sockets, which enables users to engage in seamless communication with one another. The application has been deployed on render.com's free tier, providing a cost-effective solution for users looking for a reliable chat service.",
         "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI", "React Toast"],
         "demo": "https://chat-app-ast7.onrender.com/login",
         "source": "https://github.com/vishal7313/mern-chat-app"
@@ -10,7 +10,7 @@
     {
         "title": "Expense Tracker",
         "imageSrc": "projects/expense-tracker.png",
-        "description": "Developing a MERN stack app to track earnings/expenses. Intuitive UI, dynamic dashboard with visual graphs (Chart.js), styled using Tailwind CSS & Daisy UI.",
+        "description": "I have developed a comprehensive MERN stack application that enables the monitoring and tracking of earnings and expenses. The user interface is designed to be intuitive, with a dynamic dashboard that features visual graphs created using Chart.js. The application is styled using Tailwind CSS and Daisy UI, providing a professional and visually appealing experience.",
         "skills": ["MongoDB", "Express", "React", "Node", "Chart.js"],
         "demo": "https://vishal7313.github.io/portfolio/",
         "source": "https://github.com/vishal7313/expense-tracker"
@@ -18,7 +18,7 @@
     {
       "title": "Portfolio Website",
       "imageSrc": "projects/portfolio.png",
-      "description": "A react app to demonstrate my projects, interest and my education. Deployed using github pages.",
+      "description": "I have developed a React application that exhibits my professional endeavors, academic pursuits, and personal interests. This application serves as a platform to showcase my skills, achievements, and experiences. It can be utilized as a tool to present my portfolio in a professional setting. I am pleased to inform you that this app has been successfully deployed on GitHub Pages",
       "skills": ["React", "Node", "Github Pages"],
       "demo": "https://vishal7313.github.io/react-portfolio/ ",
       "source": "https://github.com/vishal7313/react-portfolio"
@@ -26,7 +26,7 @@
     {
         "title": "Old Portfolio Website",
         "imageSrc": "projects/old-portfolio.png",
-        "description": "Another react app to create the Portfolio website. Deploy the website using github pages. It contains information about my projects, interest and my education.",
+        "description": "I have developed a React application that serves to showcase my professional projects, interests, and academic background. I am pleased to inform you that this app has been successfully deployed on GitHub Pages",
         "skills": ["React", "Node", "Github Pages"],
         "demo": "https://vishal7313.github.io/portfolio/",
         "source": "https://github.com/vishal7313/portfolio"
@@ -34,7 +34,7 @@
     {
       "title": "Cricket Auction",
       "imageSrc": "projects/project.png",
-      "description": "Currently working on a react app which simulates a franchise league auction. 10 teams can bid for a player and highest bidder will get the player. The goal is the complete the squad within the budget",
+      "description": "Currently, I am working on a React app that simulates a franchise league auction. In this auction, ten teams can bid for a player, and the highest bidder will get the player. The goal of this simulation is to complete the squad within the budget.",
       "skills": ["MongoDB", "Express", "React", "Node", "Sockets", "JWT", "Tailwind CSS", "DaisyUI"],
       "demo": "",
       "source": "https://github.com/vishal7313/ipl-players-auction"
@@ -42,7 +42,7 @@
     {
       "title": "Hangman",
       "imageSrc": "projects/hangman-game.png",
-      "description": "In this python project, hangman game is developed with keeping in mind about the rules",
+      "description": "In this Python project, I developed the game of hangman with careful consideration of the established rules. The project outcome reflects a commitment to maintaining high standards of quality and adherence to best practices.",
       "skills": ["Python"],
       "demo": "https://replit.com/@vishal7313/Day-7-Hangman-Final",
       "source": "https://github.com/vishal7313/python-proj/tree/main/hangman"
@@ -50,7 +50,7 @@
     {
       "title": "Blackjack Game",
       "imageSrc": "projects/blackjack-game.png",
-      "description": "A python project where I implemented the concept of BlackJack Card Game. As of now, only one player can play with the computer. I am working on making it a multiplayer game.",
+      "description": "A Python project where I implemented the concept of the BlackJack card game. Currently, only one player can play against the computer, but I am working on making it a multiplayer game.",
       "skills": ["Python"],
       "demo": "https://replit.com/@vishal7313/blackjack-final-1",
       "source": "https://github.com/vishal7313/python-proj/tree/main/blackjack"
@@ -58,7 +58,7 @@
     {
       "title": "Higher Lower Game",
       "imageSrc": "projects/higher-lower.png",
-      "description": "Developed Higher Lower game concept. In this there are two section and player has to compare if the left section is higher or lower. If the user guess it right, then the game keeps on going otherwise any wrong guess will result in end of the game.",
+      "description": "Created Higher Lower game concept with two sections for users to compare if left section is higher or lower. Correct guesses continue the game, while incorrect ones end it.",
       "skills": ["Python"],
       "demo": "https://replit.com/@vishal7313/higher-lower-final",
       "source": "https://github.com/vishal7313/python-proj/tree/main/high_lower_number"
